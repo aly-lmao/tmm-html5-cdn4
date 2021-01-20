@@ -1,8 +1,8 @@
 # zzzz
 
-# backup zombs royale proxy
+backup zombs royale proxy
 
-https://zzzz.ummmmrandomstuff.gq/zombsroyale/index.html
+# click here to play https://zzzz.ummmmrandomstuff.gq/zombsroyale/index.html
 
 
 
