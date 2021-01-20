@@ -1,7 +1,9 @@
 # zzzz
 backup zombs royale proxy
 
-zzzz.ummmmrandomstuff.gq 
+https://zzzz.ummmmrandomstuff.gq/zombsroyale/index.html
+
+
 
 forked from https://github.com/scheng123321/tmm-html5-cdn4
 
